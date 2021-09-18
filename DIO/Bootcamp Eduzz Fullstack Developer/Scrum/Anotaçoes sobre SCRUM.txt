@@ -1,0 +1,11 @@
+Anotações 
+
+Caracteristicas relevantes do SCRUM
+
+=> Scrum é uma metodologia agil que auxilia no desenvolvimento de projetos. Não reconhece titulos para os integrantes do time de desenvolvimento que não seja o desenvolvedor, sem exceçoes.
+=> Temos a tecnica SMART que pode ser utilizada para a identificação dos objetivos de um projeto.
+=> Conceito de ser ágil é planejar muito as atividades e entregar o maior valor possível para o cliente.
+=> Tarefa é um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória.
+=> Na review o objetivo é validar a demanda entregue verificando se os criterios estabelecidos no planejamento foram atendidos.
+=> O Product Backlog compoe Epico, Estoria e Atividade.
+=> Planning Poker é uma atividade de mensuração do esforço e complexidade das tarefas ou estorias.
